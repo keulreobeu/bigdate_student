@@ -1,0 +1,5 @@
+https://requests.readthedocs.io/
+scheme :// host . domain.in / 의 구조
+
+https://github.com/psf/requests
+       www.이 생략됨 / 이후는 path라 함 
